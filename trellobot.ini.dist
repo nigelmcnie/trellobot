@@ -1,0 +1,8 @@
+[bot]
+nick = trellobot
+server = irc.freenode.org
+channel = #trellobot
+
+[trello]
+api_key = YOUR_TRELLO_API_KEY
+api_token = A_TRELLO_API_TOKEN
